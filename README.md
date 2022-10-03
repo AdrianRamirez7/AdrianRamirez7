@@ -1,10 +1,16 @@
 ### Hi there 👋
 
+Welcome to my GitHub page!
 
-- 🔭 I’m currently working on Shopify Projects
-- 🌱 I’m currently learning JavaScript
-- 💬 Ask me about Shopify Store Setups
-- 📫 How to reach me: ...
+My name is Adrian and I am a Frontend Web Developer located in 🇺🇸 San Diego, California.
+ I strive to construct superb e-commerce sites for my clients.
+
+
+
+
+
+
+
 
 
 
